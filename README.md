@@ -1,7 +1,7 @@
 # Project Name
 NOVATERRA ONG
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Novaterra/Triptico_Novaterra/master/dise%C3%B1o.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/Novaterra/Logos_Novaterra/master/dise%C3%B1o.png" width="600"/>
 </p>
 DISEÑO GRAFICO: Logotipos de Novaterra en distintos formatos 2016
 
