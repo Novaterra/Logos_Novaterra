@@ -5,6 +5,8 @@ NOVATERRA ONG
 </p>
 DISEÑO GRAFICO: Logotipos de Novaterra en distintos formatos 2016
 
+       Estan los logos en varios tamaños y en formato vectorial svg.
+
 ## REALIZADO CON
 
 El diseños esta realizado con Inkscape programa de sofware libre
